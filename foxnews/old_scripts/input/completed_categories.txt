@@ -1,0 +1,5 @@
+category/politics/unions
+category/columns/star-traveler
+category/us/religion
+category/columns/energy-in-america
+category/travel/travel-topics/spas

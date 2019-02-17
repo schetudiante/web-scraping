@@ -1,0 +1,6 @@
+api_data/
+fox_data/
+articles/
+meta/
+__pycache__/
+*.zip
