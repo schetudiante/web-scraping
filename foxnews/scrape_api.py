@@ -31,6 +31,8 @@ API_BASE = (
     'start={start}&'
     'sort=latest'
 )
+# In hindsight you can remove the q=param and it will give you
+# all articles, include ones that don't contain "the"
 
 MAX_ATTEMPTS = 150 # Max attempts before giving up on an index
 NUM_PROC = 8 # Number of processes desired

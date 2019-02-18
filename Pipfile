@@ -9,6 +9,7 @@ verify_ssl = true
 peewee = "*"
 requests = "*"
 pathos = "*"
+aiohttp = "*"
 
 [requires]
 python_version = "3.7"
