@@ -1,0 +1,15 @@
+politics
+entertainment
+the-media
+economy
+europe
+border
+middle-east
+africa
+asia
+latin-america
+world-news
+video
+tech
+sports
+social-justice
