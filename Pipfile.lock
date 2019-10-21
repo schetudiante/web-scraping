@@ -53,17 +53,17 @@
         },
         "attrs": {
             "hashes": [
-                "sha256:10cbf6e27dbce8c30807caf056c8eb50917e0eaafe86347671b57254006c3e69",
-                "sha256:ca4be454458f9dec299268d472aaa5a11f67a4ff70093396e1ceae9c76cf4bbb"
+                "sha256:08a96c641c3a74e44eb59afb61a24f2cb9f4d7188748e76ba4bb5edfa3cb7d1c",
+                "sha256:f7b7ce16570fe9965acd6d30101a28f62fb4a7f9e926b3bbc9b61f8b04247e72"
             ],
-            "version": "==18.2.0"
+            "version": "==19.3.0"
         },
         "certifi": {
             "hashes": [
-                "sha256:47f9c83ef4c0c621eaef743f133f09fa8a74a9b75f037e8624f83bd1b6626cb7",
-                "sha256:993f830721089fef441cdfeb4b2c8c9df86f0c63239f06bd025a76a7daddb033"
+                "sha256:e4f3620cfea4f83eedc95b24abd9cd56f3c4b146dd0177e83a21b4eb49e21e50",
+                "sha256:fd7c7c74727ddcf00e9acd26bba8da604ffec95bf1c2144e67aff7a8b50e6cef"
             ],
-            "version": "==2018.11.29"
+            "version": "==2019.9.11"
         },
         "chardet": {
             "hashes": [
@@ -74,9 +74,9 @@
         },
         "dill": {
             "hashes": [
-                "sha256:f6d6046f9f9195206063dd0415dff185ad593d6ee8b0e67f12597c0f4df4986f"
+                "sha256:42d8ef819367516592a825746a18073ced42ca169ab1f5f4044134703e7a049c"
             ],
-            "version": "==0.2.9"
+            "version": "==0.3.1.1"
         },
         "idna": {
             "hashes": [
@@ -121,17 +121,11 @@
         },
         "multiprocess": {
             "hashes": [
-                "sha256:069f8b63f296af2801fc4c616cb737f2b457e145daa83a460147502eb7f7aa0f",
-                "sha256:08e00b3943e25d26e83ac1eb92c25be30fe2e353b73ef9f685a4c15efbf6641b",
-                "sha256:27ffc0f3b15e9321b3b46182f1b552c147b82ab3101079d2c2e6f1ee67b7d118",
-                "sha256:292995b5a4272350e31c4fc42b2d9fd13ffe091712858e767ab68d0ba06acaa7",
-                "sha256:46479a327388df8e77ad268892f2e73eac06d6271189b868ce9d4f95474e58e3",
-                "sha256:6d3117199432e7ce36103950a37980f142e11e09eb9b2415b6c6cbb1da1642d2",
-                "sha256:f2630920fef3b3224312b315ccd26a87c0dd2c9df3288d24d04398563985847d",
-                "sha256:f679b203a6b1766b978f579e361a96182e17e86fc8843fac5e865568d2e11d22",
-                "sha256:fc0f82033e9e294bc3463257e1d6399da737d65c6412e6efde40228339ad0e1e"
+                "sha256:0e4e65c2e74aa14fa0c9a1f838b5e9a5f8fe5b3a173925792260843c4a6157ec",
+                "sha256:1eb7dfe2d809d53be92e8a288ed1c01614fe5407bbc9d078ed451a749fb1bd34",
+                "sha256:9fd5bd990132da77e73dec6e9613408602a4612e1d73caf2e2b813d2b61508e5"
             ],
-            "version": "==0.70.7"
+            "version": "==0.70.9"
         },
         "pathos": {
             "hashes": [
@@ -149,15 +143,15 @@
         },
         "pox": {
             "hashes": [
-                "sha256:2b53fbdf02596240483dc2cb94f94cc21252ad1b1858c7b1c151afeec9022cc8"
+                "sha256:06afe1a4a1dbf8b47f7ad5a3c1d8ada9104c64933a1da11338269a2bd8642778"
             ],
-            "version": "==0.2.5"
+            "version": "==0.2.7"
         },
         "ppft": {
             "hashes": [
-                "sha256:5537b00afb7b247da0f59cc57ee5680178be61c8b2e21b5a0672b70a3d247791"
+                "sha256:9e2173042edd5cc9c7bee0d7731873f17fcdce0e42e4b7ab68857d0de7b631fc"
             ],
-            "version": "==1.6.4.9"
+            "version": "==1.6.6.1"
         },
         "requests": {
             "hashes": [
@@ -176,10 +170,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:61bf29cada3fc2fbefad4fdf059ea4bd1b4a86d2b6d15e1c7c0b582b9752fe39",
-                "sha256:de9529817c93f27c8ccbfead6985011db27bd0ddfcdb2d86f3f663385c6a9c22"
+                "sha256:4c291ca23bbb55c76518905869ef34bdd5f0e46af7afe6861e8375643ffee1a0",
+                "sha256:9a247273df709c4fedb38c711e44292304f73f39ab01beda9f6b9fc375669ac3"
             ],
-            "version": "==1.24.1"
+            "index": "pypi",
+            "version": "==1.24.2"
         },
         "yarl": {
             "hashes": [
